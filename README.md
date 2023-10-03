@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @femastro
 - 👀 I’m interested in all
-- 🌱 I’m currently learning angular, python and Laravel
+- 🌱 I’m currently learning angular, react, python and Laravel
